@@ -127,7 +127,7 @@ Este projeto demonstra a aplicação prática de Customer Analytics, conectando 
 ---
 ## 📷 Preview do Dashboard
 
-![Executive Customer 360 Dashboard](dash1-customer360.jpg)
+![Executive Customer 360 Dashboard](dash1-customer360-atualizado.jpg)
 
 👉 🔗 **[Abrir Dashboard no Power BI]** https://acadcruzeirodosul-my.sharepoint.com/:u:/g/personal/paola_bonfim_cs_cruzeirodosul_edu_br/IQAYKEpcNoCqSoxZ9By53mM1Aavhn2CGEoo5os5lJPhV7DE?e=UaYgEY
 
